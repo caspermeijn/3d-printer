@@ -7,4 +7,5 @@
 
 ## Models
 - [Test-tube holder v2](models/test-tube-holder/)
+- [Plant sign](models/plant-sign/)
 
