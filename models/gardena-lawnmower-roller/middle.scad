@@ -6,7 +6,7 @@ klos = 75;
 transition = 5;
 tussenstuk_diameter = diameter - 10;
 tussenstuk_radius = tussenstuk_diameter / 2;
-tussenstuk_length = 10;
+tussenstuk_length = 12;
 
 end_outer = 20;
 end_inner = 10.5;
